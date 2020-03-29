@@ -1,7 +1,7 @@
-#include "CognitoIdentityModulePrivatePCH.h"
 #include "CognitoIdentityModule.h"
+#include "CognitoIdentityModulePrivatePCH.h"
 #include "GameLiftClientSDK/Public/GameLiftClientGlobals.h"
-#include "IPluginManager.h"
+#include "Interfaces/IPluginManager.h"
 
 #define LOCTEXT_NAMESPACE "FCognitoIdentityModule"
 
